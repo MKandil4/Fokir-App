@@ -2,13 +2,13 @@
 # Fokir App
 This is a personal portfolio-style landing page called Fokir, fully designed and developed from scratch.
 
-----
+-------
 
 ## 🔧 Built With:
 ✔️ HTML
 ✔️ CSS
 
----
+------
 
 🧠 New Techniques I Practiced in This Project:
 🔸 Integration of Google Fonts for enhanced typography.
@@ -21,25 +21,29 @@ This is a personal portfolio-style landing page called Fokir, fully designed and
 🔸 Interactive hover effects on portfolio items using opacity.
 🔸 transform: scale for subtle animations and interactivity.
 
+------
 
 🎥 Demo Video
 I've created a short walkthrough video showcasing how I used Techniques:
 
-👉 [Add your YouTube or video link here]
+👉 Waiting...
+
+------
 
 🛠 Upcoming Updates:
 I'm planning to enhance the layout with Flexbox and make the project fully responsive using Media Queries.
 
+------
+
 ## 🚀 Live Preview:
-🔗 [View Project Live](https://mkandil4.github.io/Fokir-App/)
+🔗 https://mkandil4.github.io/Fokir-App/
+
+------
 
 ## 📂 Source Code on GitHub:
-[Add your GitHub repo link here]
+🔗 https://github.com/MKandil4/Fokir-App.git
 
-💬 I'm always open to feedback, tips, or advice — thanks in advance to everyone supporting me on this journey 🫶
-
-
-
+------
 
 ## 📂 Folder Structure
 
@@ -49,7 +53,7 @@ Fokir-App/
 │ └── style.css
 └── images/
 
----
+------
 
 ## 👤 Author
 
@@ -58,11 +62,11 @@ Fokir-App/
 - 💻 [GitHub](https://github.com/MKandil4)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mkandil4)
 
----
+------
 
 ## 💬 Feedback
 
-Feel free to leave feedback, issues, or suggestions to help improve the project!
+Feel free to leave feedback, issues, or suggestions to help improve the project! 🫶
 
 
 
