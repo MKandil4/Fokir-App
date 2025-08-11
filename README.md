@@ -10,16 +10,17 @@ This is a personal portfolio-style landing page called Fokir, fully designed and
 
 ------
 
-🧠 New Techniques I Practiced in This Project:
+🧠 New Techniques I Practiced:
+🔸 Flexbox layout structuring for flexible and responsive design.
+🔸 Use of media queries to ensure responsiveness across devices.
 🔸 Integration of Google Fonts for enhanced typography.
 🔸 Icons integration using Font Awesome.
-🔸 scroll-behavior: smooth for seamless navigation.
+🔸 Smooth navigation with scroll-behavior: smooth.
 🔸 Creative backgrounds using linear-gradient.
-🔸 Float-based layout structuring.
-🔸 Advanced use of position (relative, absolute, fixed) for layout control.
-🔸 Layering with z-index to manage element stacking
+🔸 Advanced positioning techniques (relative, absolute, fixed) for precise layout control.
+🔸 Managing element stacking with z-index layering.
 🔸 Interactive hover effects on portfolio items using opacity.
-🔸 transform: scale for subtle animations and interactivity.
+🔸 Subtle animations and interactivity with transform: scale.
 
 ------
 
@@ -27,11 +28,6 @@ This is a personal portfolio-style landing page called Fokir, fully designed and
 I've created a short walkthrough video showcasing how I used Techniques:
 
 👉 Waiting...
-
-------
-
-🛠 Upcoming Updates:
-I'm planning to enhance the layout with Flexbox and make the project fully responsive using Media Queries.
 
 ------
 
