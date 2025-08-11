@@ -32,7 +32,7 @@ I've created a short walkthrough video showcasing how I used Techniques:
 ------
 
 ## 🚀 Live Preview:
-🔗 https://mkandil4.github.io/Fokir-App/
+🔗 [https://mkandil4.github.io/Fokir-App/](https://github.com/MKandil4/Fokir-App.git)
 
 ------
 
