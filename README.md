@@ -27,7 +27,7 @@ This is a personal portfolio-style landing page called Fokir, fully designed and
 🎥 Demo Video
 I've created a short walkthrough video showcasing how I used Techniques:
 
-👉 Waiting...
+👉 https://bit.ly/4ll8Chc
 
 ------
 
