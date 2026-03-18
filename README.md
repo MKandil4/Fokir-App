@@ -36,11 +36,6 @@ I've created a short walkthrough video showcasing how I used Techniques:
 
 ------
 
-## 📂 Source Code on GitHub:
-🔗 https://github.com/MKandil4/Fokir-App.git
-
-------
-
 ## 📂 Folder Structure
 
 Fokir-App/
